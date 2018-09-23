@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_articles">Articles</string>
+</resources>
